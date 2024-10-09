@@ -11,6 +11,8 @@
 | 4   | Miguel Shamukuni       | 224023640      | Computer Science    | Flowchart and pseudocode                   |
 | 5   | Terry B.M Kamati      | 223009970      | Cybersecurity       | Documentation compilation                  |
 | 6   | Andreas Mungungu      | 224072455      | Cybersecurity       | Logic, functionality, and the GUI          |
+
+
 **MODE OF STUDY:    FULL-TIME**    
 
 
