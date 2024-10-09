@@ -3,14 +3,13 @@
 **GROUP ASSIGNMENT PRESENTATION: SCORESHEET AND PROJECT DESCRIPTION**
 
 
-| SN | Name                 | Student Number | Specialization     | Role Played in the Project                  | Mark over 100% (for lecturers use only) |
-|----|----------------------|----------------|---------------------|---------------------------------------------|------------------------------------------|
-| 1  | Letisha Binga        | 224009419      | Cybersecurity       | Coding                                      |                                          |
-| 2  | Martin Morris        | 220082928      | Computer Science    | Coding                                      |                                          |
-| 3  | Bernice Benjamin     | 224001841      | Computer Science    | Coding                                      |                                          |
-| 4  | Miguel Shamukuni     | 224023640      | Computer Science    | Flowchart and pseudocode                    |                                          |
-| 5  | Terry B.M Kamati     | 223009970      | Cybersecurity       | Documentation compilation                    |                                          |
-| 6  | Andreas Mungungu     | 224072455      | Cybersecurity       | Logic, functionality, and the GUI          |                                          |
+| SN | Name                 | Student Number | Specialization      | Role in project                             |
+| 1  | Letisha Binga        | 224009419      | Cybersecurity       | Coding                                      |                                          
+| 2  | Martin Morris        | 220082928      | Computer Science    | Coding                                      |                                          
+| 3  | Bernice Benjamin     | 224001841      | Computer Science    | Coding                                      |                                          
+| 4  | Miguel Shamukuni     | 224023640      | Computer Science    | Flowchart and pseudocode                    |                                          
+| 5  | Terry B.M Kamati     | 223009970      | Cybersecurity       | Documentation compilation                    |                                          
+| 6  | Andreas Mungungu     | 224072455      | Cybersecurity       | Logic, functionality, and the GUI          |
 
 **MODE OF STUDY:    FULL-TIME**    
 
